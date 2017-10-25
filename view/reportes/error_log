@@ -1,0 +1,3 @@
+[13-Jul-2017 17:09:27 UTC] PHP Fatal error:  Call to undefined method EspeciesValoradasEntity::reporteDepositosPorFecha() in /home/cchcorre/public_html/icefox/controller/reportes/ReporteEspeciesValoradasController.php on line 79
+[13-Jul-2017 17:10:21 UTC] PHP Fatal error:  Call to undefined method EspeciesValoradasEntity::reporteDepositosPorFecha() in /home/cchcorre/public_html/icefox/controller/reportes/ReporteEspeciesValoradasController.php on line 79
+[13-Jul-2017 17:12:12 UTC] PHP Fatal error:  Call to undefined method EspeciesValoradasEntity::reporteDepositosPorFecha() in /home/cchcorre/public_html/icefox/controller/reportes/ReporteEspeciesValoradasController.php on line 79

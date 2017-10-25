@@ -1,0 +1,1 @@
+[08-Jun-2017 22:59:48 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/cchcorre/public_html/icefox/view/index.php on line 3
